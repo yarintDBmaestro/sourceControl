@@ -31,7 +31,7 @@
       "is_sparse": false,
       "is_xml_document": false,
       "max_length": 100,
-      "name": "column1",
+      "name": "Column1",
       "obj": "NewTable",
       "precision": 0,
       "rule_object_id": 0,
